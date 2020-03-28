@@ -1,6 +1,6 @@
 # How to contribute
 
-I'm really glad you're reading this, because we need volunteer developers to help this project come to fruition.
+We are really glad you're reading this, because we need volunteer developers to help this project come to fruition.
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, slack or any other method with the owners of this repository before making a change. 
