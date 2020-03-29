@@ -1,17 +1,8 @@
----
-name: PULL_REQUEST_TEMPLATE
-about: To be used for pull requests
-title: "[PR]"
-labels: ":speech_balloon: code review"
-assignees: devs-from-matrix/ff4j-web-console
-
----
-
 # Description
 
 <!-- Description about this pull request -->
 
-fixes : <!-- refer the github issue. Ex: #084-->
+Closes : <!-- refer the github issue. Ex: #084-->
 
 # Checklist:
 
