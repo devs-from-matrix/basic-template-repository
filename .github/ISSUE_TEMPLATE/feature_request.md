@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: "[New Feature]"
 labels: ":rocket: enhancement"
-assignees: devs-from-matrix/ff4j-web-console
+assignees: ''
 
 ---
 
