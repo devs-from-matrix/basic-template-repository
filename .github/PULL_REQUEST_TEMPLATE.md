@@ -3,7 +3,7 @@ name: PULL_REQUEST_TEMPLATE
 about: To be used for pull requests
 title: "[PR]"
 labels: ":speech_balloon: code review"
-assignees: paul58914080
+assignees: devs-from-matrix/ff4j-web-console
 
 ---
 
