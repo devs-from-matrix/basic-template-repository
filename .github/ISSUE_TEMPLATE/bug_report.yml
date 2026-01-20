@@ -2,6 +2,8 @@ name: "Bug report"
 description: "Report a reproducible bug."
 title: "[Bug] {{summary}}"
 type: bug
+assignees:
+  - paul58914080
 labels:
   - bug
   - needs-triage
